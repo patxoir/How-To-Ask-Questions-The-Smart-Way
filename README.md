@@ -70,3 +70,13 @@ Issues와 Pull requests를 통해 더 나은 번역에 함께 해주세요.
 우선 우리는 당연히 질문하기 전에 스스로 생각도 해보지 않는 사람과 숙제를 스스로 하지도 않는 사람에게 적대적입니다. 그런 사람들은 그저 시간 낭비입니다. 받기만 하고 주는 건 없으며, 우리가 더 흥미롭고 대답할 가치가 있는 다른 질문에 쓸 수 있었을 시간을 빼앗습니다. 우리는 이런 사람들을 "루저"라고 부르기로 약속했어요.
 
 당장 우리가 만든 프로그램을 쓰는 것이 중요하고 기술적인 세부 사항을 배우는 것에는 큰 관심이 없는 사람이 많다는 걸 우리도 잘 압니다. 대부분의 사람들에게 컴퓨터는 그저 도구일 뿐입니다. 해야 할 더 중요한 일이 있고 살아야 할 삶이 있지요. 우리는 그걸 존중하며 우리가 열광하는 기술적인 문제에 모든 사람들이 관심을 가질거라 기대하지 않습니다. 그렇지만 우리는 그런 관심을 가지고 문제 해결에 적극적으로 참여하고자 하는 사람들에 맞추어 답변을 할 겁니다. 그리고 그건 안 바뀔겁니다. 바뀌어서는 안되고요. 만약 바뀐다면 우리는 우리가 가장 잘 하는 일에 약해지게 될겁니다.
+
+우리는 (대부분) 자원 봉사자입니다. 우리는 바쁜 삶 와중에 시간을 내어 질문에 답하고, 때로는 넘쳐나는 질문에 압도됩니다. 그래서 우리는 무자비하게 걸러냅니다. 구체적으로, 우리는 루저로 보이는 사람들의 질문을 걸러서 대부분의 시간을 위너의 질문에 효율적으로 답변할 수 있도록 합니다.
+
+이러한 태도가 불쾌하거나, 거만하거나 혹은 잘난 체하는 것처럼 보인다면 당신의 가정을 다시 확인하세요. 우리는 당신에게 납작 엎드리라고 말하는 게 아닙니다. 사실 우리 대부분은 당신이 적절한 노력을 기울인다면 우리의 문화로 반갑게 맞이하고 동등하게 대할 것입니다. 하지만 스스로를 도우려 하지 않는 사람을 도우려 애쓰는 것은 우리에게 그저 비효율적일 뿐입니다. 모르는 건 괜찮지만, 바보같이 구는 건 괜찮지 않습니다.
+
+그러니까 우리의 주목을 받기 위해 기술적으로 유능할 필요는 없지만, 유능함으로 이어지는 태도, 즉 주의 깊고, 사려 깊고, 관찰하고, 솔루션 개발에 적극적으로 참여하는 태도를 보여줄 필요는 있습니다. 당신이 이런 종류의 차별을 못 견디겠다면 우리에게 개인적으로 기부를 요구하는 대신 돈을 내고 상업적 지원을 받는 것을 추천합니다.
+
+If you decide to come to us for help, you don't want to be one of the losers. You don't want to seem like one, either. The best way to get a rapid and responsive answer is to ask it like a person with smarts, confidence, and clues who just happens to need help on one particular problem.
+
+(Improvements to this guide are welcome. You can mail suggestions to esr@thyrsus.com or respond-auto@linuxmafia.com. Note however that this document is not intended to be a general guide to netiquette, and we will generally reject suggestions that are not specifically related to eliciting useful answers in a technical forum.)
