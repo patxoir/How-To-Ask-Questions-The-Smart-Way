@@ -111,11 +111,76 @@ Issues와 Pull requests를 통해 더 나은 번역에 함께 해주세요.
 
 ### 어느 포럼에 질문할 지 신중히 고르세요
 
+어디에 질문을 올릴지 정말 잘 고르세요. 만약 당신이 아래와 같이 질문한다면, 당신은 무시당하거나 루저로 취급당할 가능성이 높습니다.
+  
+  * 다른 주제를 다루는 포럼에 질문을 올리는 경우
+  * 고급 기술 질문을 다루는 포럼에 아주 기초적인 질문을 올리는 경우나 그 반대의 경우
+  * 너무 많은 뉴스 그룹에 동일한 질문을 올리는 경우
+  * 당신의 지인도 아니고 당신의 문제를 해결해줘야 할 책임도 없는 사람한테 개인적으로 이메일을 보내는 경우
+
+해커는 그들의 커뮤니케이션 채널이 쓸모없는 글에 침식되지 않도록 잘못 올라온 질문은 날려버립니다. 그런 일이 당신에게 일어나길 원하진 않겠죠.
+
+그러니 당연히 첫 번째 단계는 올바른 포럼을 찾는 겁니다. 다시 말하지만 구글(그리고 다른 웹 검색 방법들)과 친해지세요. 이를 이용해서 당신을 괴롭히고 있는 하드웨어 혹은 소프트웨어와 가장 연관된 프로젝트 웹 페이지를 찾아내세요. 보통 그 페이지에는 FAQ(Frequently Asked Questions: 자주 묻는 질문) 목록과 프로젝트 메일링 리스트, 그리고 아카이브의 링크가 있을 겁니다. 이 메일링 리스트는 당신 스스로의 노력 (당신이 방금 찾아낸 FAQ를 전부 읽어보는 것을 포함)을 통해서 답을 찾지 못했을 때 **마지막으로** 도움을 요청하러 갈 곳입니다. 프로젝트 웹 페이지에 버그 보고 절차, 혹은 그에 대한 링크가 있을 수도 있습니다. 그렇다면 그 절차를 따르세요.
+
+당신이 익숙하지 않은 사람이나 포럼에 이메일을 보내는 건 가장 위험합니다. 유익한 웹 페이지를 만든 사람이라고 해서 그 사람이 당신의 무료 컨설턴트가 되길 원한다고 가정하지 마세요. 당신의 질문이 환영받을거라고 낙관적으로 생각하지 마세요. 확실하지 않다면, 다른 곳에 보내거나 그냥 아예 보내지 마세요.
+
+When selecting a Web forum, newsgroup or mailing list, don't trust the name by itself too far; look for a FAQ or charter to verify your question is on-topic. Read some of the back traffic before posting so you'll get a feel for how things are done there. In fact, it's a very good idea to do a keyword search for words relating to your problem on the newsgroup or mailing list archives before you post. It may find you an answer, and if not it will help you formulate a better question.
+
+Don't shotgun-blast all the available help channels at once, that's like yelling and irritates people. Step through them softly.
+
+Know what your topic is! One of the classic mistakes is asking questions about the Unix or Windows programming interface in a forum devoted to a language or library or tool portable across both. If you don't understand why this is a blunder, you'd be best off not asking any questions at all until you get it.
+
+In general, questions to a well-selected public forum are more likely to get useful answers than equivalent questions to a private one. There are multiple reasons for this. One is simply the size of the pool of potential respondents. Another is the size of the audience; hackers would rather answer questions that educate many people than questions serving only a few.
+
+Understandably, skilled hackers and authors of popular software are already receiving more than their fair share of mis-targeted messages. By adding to the flood, you could in extreme cases even be the straw that breaks the camel's back — quite a few times, contributors to popular projects have withdrawn their support because collateral damage in the form of useless e-mail traffic to their personal accounts became unbearable.
+
 ### Stack Overflow
+
+Search, *then* ask on Stack Exchange
+
+In recent years, the Stack Exchange community of sites has emerged as a major resource for answering technical and other questions and is even the preferred forum for many open-source projects.
+
+Start with a Google search before looking at Stack Exchange; Google indexes it in real time. There's a very good chance someone has already asked a similar question, and the Stack Exchange sites are often near the top of the search results. If you didn't find anything through Google, search again on the specific site most relevant to your question (see below). Searching with tags can help narrow down the results.
+
+If you still didn't find anything, post your question on the one site where it's most on-topic. Use the formatting tools, especially for code, and add tags that are related to the substance of your question (particularly the name of the programming language, operating system, or library you're having trouble with). If a commenter asks you for more information, edit your main post to include it. If any answer is helpful, click the up arrow to upvote it; if an answer gives a solution to your problem, click the check under the voting arrows to accept it as correct.
+
+Stack Exchange has grown to over 100 sites, but here are the most likely candidates:
+
+  * Super User is for questions about general-purpose computing. If your question isn't about code or programs that you talk to only over a network connection, it probably goes here.
+  * Stack Overflow is for questions about programming.
+  * Server Fault is for questions about server and network administration.
+
+Several projects have their own specific sites, including Android, Ubuntu, TeX/LaTeX, and SharePoint. Check the Stack Exchange site for an up-to-date list.
 
 ### 웹 및 IRC 포럼
 
+Your local user group, or your Linux distribution, may advertise a Web forum or IRC channel where newbies can get help. (In non-English-speaking countries newbie forums are still more likely to be mailing lists.) These are good first places to ask, especially if you think you may have tripped over a relatively simple or common problem. An advertised IRC channel is an open invitation to ask questions there and often get answers in real time.
+
+In fact, if you got the program that is giving you problems from a Linux distribution (as is common today), it may be better to ask in the distro's forum/list before trying the program's project forum/list. The project's hackers may just say, “use our build”.
+
+Before posting to any Web forum, check if it has a Search feature. If it does, try a couple of keyword searches for something like your problem; it just might help. If you did a general Web search before (as you should have), search the forum anyway; your Web-wide search engine might not have all of this forum indexed recently.
+
+There is an increasing tendency for projects to do user support over a Web forum or IRC channel, with e-mail reserved more for development traffic. So look for those channels first when seeking project-specific help.
+
+In IRC, it's probably best not to dump a long problem description on the channel first thing; some people interpret this as channel-flooding. Best to utter a one-line problem description in a way pitched to start a conversation on the channel.
+
 ### 두 번째 단계로, 프로젝트 메일링 목록을 사용하세요
+
+When a project has a development mailing list, write to the mailing list, not to individual developers, even if you believe you know who can best answer your question. Check the documentation of the project and its homepage for the address of a project mailing list, and use it. There are several good reasons for this policy:
+
+Any question good enough to be asked of one developer will also be of value to the whole group. Contrariwise, if you suspect your question is too dumb for a mailing list, it's not an excuse to harass individual developers.
+
+Asking questions on the list distributes load among developers. The individual developer (especially if he's the project leader) may be too busy to answer your questions.
+
+Most mailing lists are archived and the archives are indexed by search engines. If you ask your question on-list and it is answered, a future querent could find your question and the answer on the Web instead of asking it again.
+
+If certain questions are seen to be asked often, developers can use that information to improve the documentation or the software itself to be less confusing. But if those questions are asked in private, nobody has the complete picture of what questions are asked most often.
+
+If a project has both a “user” and a “developer” (or “hacker”) mailing list or Web forum, and you are not hacking on the code, ask in the “user” list/forum. Do not assume that you will be welcome on the developer list, where they're likely to experience your question as noise disrupting their developer traffic.
+
+However, if you are sure your question is non-trivial, and you get no answer in the “user” list/forum for several days, try the “developer” one. You would be well advised to lurk there for a few daysor at least review the last few days of archived messages, to learn the local folkways before posting (actually this is good advice on any private or semi-private list).
+
+If you cannot find a project's mailing list address, but only see the address of the maintainer of the project, go ahead and write to the maintainer. But even in that case, don't assume that the mailing list doesn't exist. Mention in your e-mail that you tried and could not find the appropriate mailing list. Also mention that you don't object to having your message forwarded to other people. (Many people believe that private e-mail should remain private, even if there is nothing secret in it. By allowing your message to be forwarded you give your correspondent a choice about how to handle your e-mail.)
 
 ### 의미있고 구체적인 제목을 사용하세요
 
