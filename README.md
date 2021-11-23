@@ -154,15 +154,15 @@ Stack Exchange는 100개가 넘는 사이트로 성장했지만, 많은 경우 �
 
 ### 웹 및 IRC 포럼
 
-Your local user group, or your Linux distribution, may advertise a Web forum or IRC channel where newbies can get help. (In non-English-speaking countries newbie forums are still more likely to be mailing lists.) These are good first places to ask, especially if you think you may have tripped over a relatively simple or common problem. An advertised IRC channel is an open invitation to ask questions there and often get answers in real time.
+당신이 속한 로컬 사용자 그룹 또는 당신이 사용하는 리눅스 배포판 커뮤니티에서 초보자들이 도움을 얻을 수 있는 웹 포럼 혹은 IRC 채널을 홍보할 수도 있습니다(영어를 모국어로 사용하지 않는 나라에서는 초보자용 포럼이 여전히 메일링 리스트일 확률이 높습니다). 이런 곳은 처음으로 질문을 올리기에 좋은 곳입니다. 만약 당신이 생각하기에 이 문제가 상대적으로 쉽거나 흔한 문제라고 보인다면 더욱 그렇습니다. 널리 홍보된 IRC 채널은 질문을 올리라고 활짝 열린 곳이고 실시간으로 답변을 받게 되는 경우도 종종 있습니다.
 
-In fact, if you got the program that is giving you problems from a Linux distribution (as is common today), it may be better to ask in the distro's forum/list before trying the program's project forum/list. The project's hackers may just say, “use our build”.
+사실, 만약 당신이 문제를 겪고 있는 프로그램을 리눅스 배포판에서 얻었다면 (최근에는 매우 흔한 경우죠), 해당 프로그램의 프로젝트 포럼에 질문을 올리는 것보다 해당 리눅스 배포판의 포럼에 질문을 올리는 것이 나을 수 있습니다. 해당 프로그램 프로젝트의 해커는 단순히 "우리가 만든 빌드를 쓰세요" 라고 할 수도 있습니다.
 
-Before posting to any Web forum, check if it has a Search feature. If it does, try a couple of keyword searches for something like your problem; it just might help. If you did a general Web search before (as you should have), search the forum anyway; your Web-wide search engine might not have all of this forum indexed recently.
+웹 포럼에 글을 올리기 전에, 검색 기능이 있는지 확인하세요. 만약 있다면, 당신의 문제와 연관된 키워드를 몇 개 검색해보세요. 도움이 될 수도 있습니다. 웹 검색을 이미 했더라도 (이미 했어야 하고요), 그래도 포럼에서 한 번 더 검색해보세요. 당신이 사용한 웹 검색 엔진이 이 포럼을 최근에 색인하지 않았을 수도 있습니다.
 
-There is an increasing tendency for projects to do user support over a Web forum or IRC channel, with e-mail reserved more for development traffic. So look for those channels first when seeking project-specific help.
+최근 들어 많은 프로젝트가 이메일은 질의응답 대신 개발에 사용하고, 웹 포럼 또는 IRC 채널에서 사용자 지원을 수행하는 경향이 있습니다. 그러니 프로젝트에 대한 도움이 필요하다면 이런 채널을 먼저 찾아보세요.
 
-In IRC, it's probably best not to dump a long problem description on the channel first thing; some people interpret this as channel-flooding. Best to utter a one-line problem description in a way pitched to start a conversation on the channel.
+IRC에서는 한번에 문제 상황을 길게 서술해서 채널에 올리지 않는 것이 좋습니다. 어떤 사람들은 이를 도배라고 생각합니다. 문제를 한 줄로 요약해서 올리는 것으로 대화를 시작하는 것이 좋습니다.
 
 ### 두 번째 단계로, 프로젝트 메일링 목록을 사용하세요
 
