@@ -124,33 +124,33 @@ Issues와 Pull requests를 통해 더 나은 번역에 함께 해주세요.
 
 당신이 익숙하지 않은 사람이나 포럼에 이메일을 보내는 건 가장 위험합니다. 유익한 웹 페이지를 만든 사람이라고 해서 그 사람이 당신의 무료 컨설턴트가 되길 원한다고 가정하지 마세요. 당신의 질문이 환영받을거라고 낙관적으로 생각하지 마세요. 확실하지 않다면, 다른 곳에 보내거나 그냥 아예 보내지 마세요.
 
-When selecting a Web forum, newsgroup or mailing list, don't trust the name by itself too far; look for a FAQ or charter to verify your question is on-topic. Read some of the back traffic before posting so you'll get a feel for how things are done there. In fact, it's a very good idea to do a keyword search for words relating to your problem on the newsgroup or mailing list archives before you post. It may find you an answer, and if not it will help you formulate a better question.
+웹 포럼, 뉴스 그룹 혹은 메일링 리스트를 고를 때, 이름만 가지고 판단하지 마세요. FAQ나 헌장을 찾아보고 당신의 질문이 실제로 다루어지는 곳이 맞는지 확인하세요. 글을 올리기 전에 백트래픽을 조금 읽어본담녀 그곳에서 일이 어떻게 돌아가는지 감을 잡을 수 있습니다. 미리 당신의 문제와 관련된 키워드를 뉴스 그룹이나 메일링 리스트 아카이브에서 검색해보는 것은 큰 도움이 될 겁니다. 이를 통해 답을 찾을 수도 있고, 그렇지 않더라도 질문을 정제하는 데 도움이 됩니다.
 
-Don't shotgun-blast all the available help channels at once, that's like yelling and irritates people. Step through them softly.
+가능한 모든 도움말 채널에 글을 마구 써대지 마십시오. 이는 마치 공공장소에서 소리를 지르는 것과 같고, 사람들을 짜증나게 합니다. 부드럽게 접근하세요.
 
-Know what your topic is! One of the classic mistakes is asking questions about the Unix or Windows programming interface in a forum devoted to a language or library or tool portable across both. If you don't understand why this is a blunder, you'd be best off not asking any questions at all until you get it.
+당신의 토픽이 뭔지 알아야 합니다. 흔히 하는 실수 중 하나는 유닉스 혹은 윈도우 프로그래밍 인터페이스를 둘 모두에서 사용할 수 있는 언어/라이브러리/툴 관련 포럼에 올리는 겁니다. 이게 왜 문제인지 이해가 안 간다면, 이해가 갈 때까지 질문을 올리지 마세요.
 
-In general, questions to a well-selected public forum are more likely to get useful answers than equivalent questions to a private one. There are multiple reasons for this. One is simply the size of the pool of potential respondents. Another is the size of the audience; hackers would rather answer questions that educate many people than questions serving only a few.
+일반적으로, 같은 질문이라면 공개 포럼에 올리는 것이 비공개 포럼에 올리는 것보다 유용한 답변을 얻을 가능성이 더 큽니다. 여러 이유가 있는데, 우선 단순히 잠재적 답변자의 수에 차이가 있기 때문이고 그 다음으로 청중의 수가 다르기 때문입니다. 해커는 더 많은 사람에게 유용한 지식을 전달할 수 있기를 원하니까요.
 
-Understandably, skilled hackers and authors of popular software are already receiving more than their fair share of mis-targeted messages. By adding to the flood, you could in extreme cases even be the straw that breaks the camel's back — quite a few times, contributors to popular projects have withdrawn their support because collateral damage in the form of useless e-mail traffic to their personal accounts became unbearable.
+숙련된 해커와 유명한 소프트웨어의 개발자들은 받지 않았어야 할 메시지의 홍수에 시달리고 있습니다. 어쩌면 당신의 메시지가 낙타의 등을 부러뜨리는 마지막 지푸라기가 될지도 모릅니다. 개인 이메일 계정에 쓸모없는 이메일이 너무 많이 와서 이를 견디지 못한 유명 프로젝트의 기여자들이 지원을 철회한 경우도 종종 있었습니다.
 
-### Stack Overflow
+### 스택 오버플로우 (Stack Overflow)
 
-Search, *then* ask on Stack Exchange
+**먼저** 검색하고 **그 다음에** Stack Exchange에 질문을 올리세요.
 
-In recent years, the Stack Exchange community of sites has emerged as a major resource for answering technical and other questions and is even the preferred forum for many open-source projects.
+최근 몇 년동안 Stack Exchange 사이트는 기술 및 기타 질문에 답하는 주요 커뮤니티가 되었고, 심지어 이제는 많은 오픈 소스 프로젝트에서 선호하는 포럼이 되었습니다.
 
-Start with a Google search before looking at Stack Exchange; Google indexes it in real time. There's a very good chance someone has already asked a similar question, and the Stack Exchange sites are often near the top of the search results. If you didn't find anything through Google, search again on the specific site most relevant to your question (see below). Searching with tags can help narrow down the results.
+Stack Exchange를 살펴보기 전에 구글 검색부터 하세요. 구글은 실시간으로 색인을 만듭니다. 아주 높은 확률로 누군가가 이미 비슷한 질문을 했을 것이며, 많은 경우 Stack Exchange 사이트가 검색 결과 상단에 위치합니다. 구글 검색으로 아무 것도 못 찾았다면, 당신의 질문과 가장 관련 있는 특정 사이트에서 다시 검색하세요 (아래 참조). 태그 기능을 활용하면 검색 결과를 좁혀나갈 수 있습니다.
 
-If you still didn't find anything, post your question on the one site where it's most on-topic. Use the formatting tools, especially for code, and add tags that are related to the substance of your question (particularly the name of the programming language, operating system, or library you're having trouble with). If a commenter asks you for more information, edit your main post to include it. If any answer is helpful, click the up arrow to upvote it; if an answer gives a solution to your problem, click the check under the voting arrows to accept it as correct.
+여전히 아무 것도 못 찾았다면, 가장 연관 있는 사이트에 질문을 게시하세요. 포맷팅 도구를 쓰세요. 특히 코드를 올리는 경우라면, 반드시 포맷팅 도구를 쓰세요. 그 다음, 질문의 내용과 관계가 있는 태그를 추가하세요(당신이 문제를 겪고 있는 프로그래밍 언어, 운영체제 혹은 라이브러리). 더 많은 정보를 요청하는 댓글이 달린다면, 질문 글 수정을 통해 해당 내용을 추가하세요. 어느 답변이든 도움이 되었다면 추천 버튼을 눌러주세요. 어떤 답변이 당신 문제에 대한 해결책을 주었다면, 투표 버튼 아래에 있는 체크 버튼을 눌러 답변을 채택하세요.
 
-Stack Exchange has grown to over 100 sites, but here are the most likely candidates:
+Stack Exchange는 100개가 넘는 사이트로 성장했지만, 많은 경우 당신은 아래에 소개한 곳에 질문을 올리게 될 겁니다.
 
-  * Super User is for questions about general-purpose computing. If your question isn't about code or programs that you talk to only over a network connection, it probably goes here.
-  * Stack Overflow is for questions about programming.
-  * Server Fault is for questions about server and network administration.
+  * Super User는 범용 컴퓨팅에 관한 질문을 올리는 곳입니다. 당신의 질문이 코드나 프로그램에 관한 것이 아니라 단순히 네트워크 연결을 통해 작동하는 경우라면 아마도 여기에 올리는 게 맞을 겁니다.
+  * Stack Overflow는 프로그래밍에 관한 질문을 올리는 곳입니다.
+  * Server Fault는 서버와 네트워크 관리에 대한 질문을 올리는 곳입니다.
 
-Several projects have their own specific sites, including Android, Ubuntu, TeX/LaTeX, and SharePoint. Check the Stack Exchange site for an up-to-date list.
+안드로이드, 우분투, TeX와 LaTeX, SharePoint 등의 프로젝트는 이를 위한 자체 사이트를 가지고 있습니다. Stack Exchange 사이트에서 최신 목록을 확인하세요.
 
 ### 웹 및 IRC 포럼
 
